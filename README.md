@@ -57,7 +57,7 @@ cd quiz-app
 
 
 flutter pub get
-##Usage
+## Usage
 1.Connect your mobile device or emulator.
 
 R2.un the app:
@@ -66,7 +66,7 @@ R2.un the app:
 flutter run
 3.Explore the app, choose a quiz category, and start answering questions. Enjoy the quiz experience!
 
-##Contributing
+## Contributing
 If you'd like to contribute to the development of the Quiz App, please follow these steps:
 
 1.Fork the repository.
@@ -74,7 +74,7 @@ If you'd like to contribute to the development of the Quiz App, please follow th
 3.Make your changes and commit them: git commit -m 'Add new feature'.
 4.Push to the branch: git push origin feature/new-feature.
 5.Submit a pull request.
-##License
+## License
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code.
 
 Thank you for using the Quiz App! If you have any questions or suggestions, feel free to open an issue or reach me out.
