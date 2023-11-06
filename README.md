@@ -1,8 +1,10 @@
 # Quiz-App
 Simple flutter quiz app using dart
-![Screenshot 2023-11-06 143428](https://github.com/Ahmedzayan1/Quiz-App/assets/87100830/d77c840b-6313-445f-9f28-ba88cdf2ad2e)
-![Screenshot 2023-11-06 143405](https://github.com/Ahmedzayan1/Quiz-App/assets/87100830/87ebd954-c126-45ef-bbb3-4ca6f18e77e9)
+
+
 ![Screenshot 2023-11-06 143306](https://github.com/Ahmedzayan1/Quiz-App/assets/87100830/4e31ec4f-e087-40b7-a091-f2c7f6d0bcf3)
+![Screenshot 2023-11-06 143405](https://github.com/Ahmedzayan1/Quiz-App/assets/87100830/87ebd954-c126-45ef-bbb3-4ca6f18e77e9)
+![Screenshot 2023-11-06 143428](https://github.com/Ahmedzayan1/Quiz-App/assets/87100830/d77c840b-6313-445f-9f28-ba88cdf2ad2e)
 Welcome to the Quiz App, a fun and engaging mobile application developed using Flutter and Dart. This README provides essential information to help you understand, use, and contribute to this project.
 
 # Quiz App
@@ -45,7 +47,7 @@ Before you begin, ensure that you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/Ahmedzayan1/Quiz-App.git
 
    Navigate to the project directory:
 
